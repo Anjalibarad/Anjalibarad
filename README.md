@@ -74,12 +74,7 @@
     <img src="https://github.com/user-attachments/assets/eeb31e02-89a3-431d-b895-e2909dcdfecf" alt="Graphic 14" width="200" height="200"/>
     <img src="https://github.com/user-attachments/assets/12a77e3f-45ca-4aed-8b99-b2309a1db767" alt="Graphic 16" width="200" height="200"/>
   
-  <img src="" alt="Grap0hic 9" width="200" height="200"/>
-  <img src="" alt="Grap0hic 9" width="200" height="200"/>
-  <img src="" alt="Grap0hic 9" width="200" height="200"/>
-  <img src="" alt="Grap0hic 9" width="200" height="200"/>
-  <img src="" alt="Grap0hic 9" width="200" height="200"/>
-   
+
 
 
 
