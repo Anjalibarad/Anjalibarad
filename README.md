@@ -162,11 +162,34 @@
     <img src="https://github.com/user-attachments/assets/706bdae0-b8fa-4517-a07d-5093388d677c" width="100" height="100" />
   </a>
   </div>
-  
 
-
-
-  
+  #### Carosal-6
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
+  <a href="https://github.com/user-attachments/assets/f618e76a-505f-4e2a-bee8-a1293977dd3e">
+    <img src="https://github.com/user-attachments/assets/f618e76a-505f-4e2a-bee8-a1293977dd3e" width="100" height="100"/>
+  </a>
+   <a href="https://github.com/user-attachments/assets/a6013095-6760-4615-aca8-6e3099018fa2">
+    <img src="https://github.com/user-attachments/assets/a6013095-6760-4615-aca8-6e3099018fa2" width="100" height="100"/>
+  </a>
+   <a href="https://github.com/user-attachments/assets/0c923213-0ec0-4a4b-85aa-4cfcccb2c84e">
+    <img src="https://github.com/user-attachments/assets/0c923213-0ec0-4a4b-85aa-4cfcccb2c84e" width="100" height="100"/>
+  </a>
+   <a href="https://github.com/user-attachments/assets/2bd0946b-6fd6-49dc-b490-629ef2f84b16">
+    <img src="https://github.com/user-attachments/assets/2bd0946b-6fd6-49dc-b490-629ef2f84b16" width="100" height="100"/>
+  </a>
+   <a href="https://github.com/user-attachments/assets/9ccbcc20-4291-4a72-bc97-9ef25fb44b37">
+    <img src="https://github.com/user-attachments/assets/9ccbcc20-4291-4a72-bc97-9ef25fb44b37" width="100" height="100"/>
+  </a>
+   <a href="https://github.com/user-attachments/assets/2bcd400a-70d8-4b71-a62f-c405c7d5b162">
+    <img src="https://github.com/user-attachments/assets/2bcd400a-70d8-4b71-a62f-c405c7d5b162" width="100" height="100"/>
+  </a>
+    <a href="https://github.com/user-attachments/assets/ef86baf8-8434-4483-ad8e-ce2d4eac5bb5">
+    <img src="https://github.com/user-attachments/assets/ef86baf8-8434-4483-ad8e-ce2d4eac5bb5" width="100" height="100"/>
+  </a>
+      <a href="https://github.com/user-attachments/assets/bba843ee-9daa-483f-bac8-617bd0e22fe2">
+    <img src="https://github.com/user-attachments/assets/bba843ee-9daa-483f-bac8-617bd0e22fe2" width="100" height="100"/>
+  </a>
+  </div>
  
 ### 🖼️ Graphic Design Work
 
