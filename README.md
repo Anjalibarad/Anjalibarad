@@ -329,6 +329,12 @@
 </p>
 </details> 
 
+---
+
+<details>
+  <summary>🎨 Video Projects</summary>
+ [▶️ Watch Video Projects](https://drive.google.com/drive/folders/1mhnI22Hdtep-FkHRlCmeyEKOl_55uJof?usp=drive_link)
+</details> 
 
 
 
