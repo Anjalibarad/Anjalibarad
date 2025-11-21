@@ -11,8 +11,8 @@
 
 ---
 
-### 🎨 UI/UX Projects
-
+<details>
+  <summary>🎨 UI/UX Projects</summary>
 <p align="center">
   <a href="https://www.figma.com/proto/gMZjdAQLBvIEdq5F60nG6S/Untitled?node-id=0-1&t=CIUUp9a9VBZyabr0-1">
     <img src="https://github.com/user-attachments/assets/1f0782e1-301c-4c0c-80e6-e7cb49b909ef" alt="UI 1" width="200" height="100"/>
@@ -24,10 +24,13 @@
     <img src="https://github.com/user-attachments/assets/d1850043-ab05-473f-a818-b775e30b5232" alt="UI 3" width="200" height="100"/>
   </a>
 </p>
+</details>
 
 ---
-### 🔄 Carosal Projects
 
+<details>
+  <summary>🔄 Carosal Projects</summary>
+  
   #### Carosal-1
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
   <a href="https://github.com/user-attachments/assets/db3e4347-f32b-4574-a756-a579477df388">
@@ -250,11 +253,12 @@
   </a>
 </div>
 
+</details>
 
+---
  
- 
-### 🖼️ Graphic Design Work
-
+ <details> 
+   <summary>🖼️ Graphic Design Work</summary>
 <p align="center">
      <img src="https://github.com/user-attachments/assets/0c2473a7-5afe-4141-8a0b-36bcca70ad5c" alt="Graphic 16" width="200" height="200"/>
   <img src="https://github.com/user-attachments/assets/6850298d-184b-4592-9ee7-2ef2609058c3" alt="Graphic 9" width="200" height="200"/>
@@ -322,13 +326,9 @@
     <img src="https://github.com/user-attachments/assets/eeb31e02-89a3-431d-b895-e2909dcdfecf" alt="Graphic 14" width="200" height="200"/>
     <img src="https://github.com/user-attachments/assets/12a77e3f-45ca-4aed-8b99-b2309a1db767" alt="Graphic 16" width="200" height="200"/>
       
-
-
-
-
-
-
 </p>
+</details> 
+
 
 
 
